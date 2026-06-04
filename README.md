@@ -59,13 +59,7 @@ International Journal of Innovative Science and Research Technology (IJISRT), Vo
 
 ## 📈 GitHub Stats
 ![Swathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swa57&show_icons=true&theme=radical)
-# ResearchGenAI
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![AI](https://img.shields.io/badge/AI-Generative-green)
-
-AI-powered research paper generator using Gemini AI.
 ---
 
 ## 📫 Connect with Me
