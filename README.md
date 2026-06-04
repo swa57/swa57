@@ -51,11 +51,17 @@ International Journal of Innovative Science and Research Technology (IJISRT), Vo
 ---
 
 ## 🏆 Certifications
-- Microsoft Certified: Azure Data Scientist Associate  
-- Artificial Intelligence & Machine Learning – UpGrad Campus  
-- Data Science and Analytics – UpGrad Campus  
+- Foundation Level in Programming and Data Science – IIT Madras
+- Microsoft Certified: Azure Data Scientist Associate
+- Artificial Intelligence and Machine Learning – UpGrad Campus
+- Data Science and Analytics – UpGrad Campus
+- AI Agents Intensive Course – Google \& Kaggle
 
 ---
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Machine Learning](https://img.shields.io/badge/ML-Projects-green)
+![Deep Learning](https://img.shields.io/badge/DL-PyTorch-red)
+![Generative AI](https://img.shields.io/badge/GenAI-LLM-orange)
 
 ## 📈 GitHub Stats
 ![Swathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swa57&show_icons=true&theme=radical)
