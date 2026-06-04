@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Swathi K
 
-**Aspiring AI/ML Engineer | Python | Machine Learning | Deep Learning | Generative AI**
+**AI/ML Engineer | Python | Machine Learning | Deep Learning | Generative AI**
 
 📍 Chennai, India | 📧 swathi.kanthaiya@gmail.com | [LinkedIn](https://www.linkedin.com/in/swathi-k-354427237/) | [GitHub](https://github.com/swa57)
 
