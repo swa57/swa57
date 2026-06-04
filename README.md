@@ -64,7 +64,7 @@ International Journal of Innovative Science and Research Technology (IJISRT), Vo
 ![Generative AI](https://img.shields.io/badge/GenAI-LLM-orange)
 
 ## 📈 GitHub Stats
-![Swathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swa57&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swa57&show_icons=true)
 
 ---
 
